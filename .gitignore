@@ -1,0 +1,12 @@
+# Build-Ordner
+bin/
+obj/
+
+# Rider / Visual Studio
+.idea/
+.vs/
+*.user
+
+# Build-Ergebnisse
+[Dd]ebug/
+[Rr]elease/
